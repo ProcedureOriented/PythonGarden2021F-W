@@ -1,4 +1,4 @@
-# PythonGarden2021F-W
+# PythonGarden2021FW
 Additional contents for Basics of Python Programming 1123/1124  
   
 这里是“Python编程基础”课程的GitHub附加库，我们会在这里陆续添加一些值得一看的内容，希望对学习这门课程的同学有帮助。  
