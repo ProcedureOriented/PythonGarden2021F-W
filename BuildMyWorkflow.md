@@ -4,7 +4,7 @@
 作为初学者，我们基本会做的事就是“编辑”，“调试”和“运行”  
 因此我们要清楚，什么软件是做哪个操作的，以及我们要选择适合自己的方式来编写文件。  
 
-本学期我们大多数时候在做的  
+**记住这个简化流程**：本学期我们大多数时候在做的  
 1. 在**编辑器**里写代码（我在哪个窗口写东西？）  
 2. 交给**解释器**运行你的代码（我的Python本体装在哪？）  
 3. 用**终端**呈现解释器运行的结果（我在哪个窗口看到结果？）  
@@ -30,7 +30,7 @@ IDE：PyCharm、Wingide、LiClipse、Visual Studio（适用于大多数语言的
 看到安装编辑器之前就行↓  
 https://zhuanlan.zhihu.com/p/111168324?from_voters_page=true  
 
-## 2. 只安装Anaconda，可以使用IDLE以及jupyter notebook
+## 2. 只安装Anaconda，可以使用IDLE以及jupyter notebook编辑，在命令行里运行。
 Anaconda相当于Python本体多加了常用的软件包以及conda包管理器，也就是说，需要手动安装的包变少了，并且你可以使用pip和conda两种方式来安装需要的包。  
 在Navigator中你还可以选择安装jupyter notebook，这样你又多了一个编辑器，它可以编写小的片段并运行，非常适合写本学期的作业。  
 
@@ -71,9 +71,13 @@ https://zhuanlan.zhihu.com/p/108439489
 或者这个简易版：  
 https://blog.csdn.net/Quest_sec/article/details/104466280
 
+## 配置清华源
+
 
 ## 配置系统终端
-如果你选用前三种方式，还可以配置你的系统终端来快速进行一些命令操作
+如果你选用前三种方式，还可以配置你的系统终端来快速进行一些命令操作。  
+Windows常用的系统终端有cmd和Powershell，都自带在系统中。  
+如果你想使用更美观的界面，可以在Microsoft Store里安装Windows Terminal，或者Windows Terminal Preview（前者的预览版）。  
 
 一招解决Conda安装卡在solving environment这一步！
 https://blog.csdn.net/qazplm12_3/article/details/108924561
