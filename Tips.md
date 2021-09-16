@@ -1,8 +1,5 @@
-# Build My Workflow
-此文档主要包括了在自己的电脑上建立工作环境的个人经验和搜集的经验  
-
-## 0. 在配置工作环境之前
-一些优化体验的小操作！  
+# Tips:在配置工作环境之前
+在自己的电脑上建立工作环境之前，先让电脑和浏览器变得更好用一些！
 
 ### NKU_WLAN免验证自动登录
 厌烦了每次连接校园网都要登陆？  
@@ -64,7 +61,7 @@ https://greasyfork.org/en/scripts/405130-%E6%96%87%E6%9C%AC%E9%80%89%E4%B8%AD%E5
 在CSDN复制别人的代码的时候不用自己再登录了  
 
 #### 网页限制解除
-https://greasyfork.org/en/scripts/28497-remove-web-limits-modified
+https://greasyfork.org/en/scripts/28497-remove-web-limits-modified  
 叠BUFF！解除禁止复制、剪切、选择文本、右键菜单的限制，可以和上面两个一起用。  
 如果不生效可以在网页右上角的灰色选择框里打上勾  
 
@@ -98,5 +95,3 @@ https://greasyfork.org/en/scripts/401779-%E7%BD%91%E8%AF%BE%E9%80%9A%E7%94%A8%E8
 **网盘自动填写访问码【威力加强版】**  
 https://greasyfork.org/en/scripts/29762-%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E8%AE%BF%E9%97%AE%E7%A0%81-%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88  
 智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。  
-
-## 1. 配置环境
