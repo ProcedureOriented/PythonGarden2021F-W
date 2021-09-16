@@ -55,6 +55,8 @@ https://code.visualstudio.com/
 在界面左侧有四个小方格的按钮，点击它并在弹出的搜索栏上搜索Python，安装第一个即可  
 如果界面为英文，可以搜索Chinese，安装中文界面  
 另外还可以安装一个CodeSnap，分享代码时比较美观  
+在网上搜索VS Code插件推荐可以发掘VS Code的更多功能  
+https://cloud.tencent.com/developer/article/1796162  
 
 ## 4. （IDE）只安装Pycharm
 Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pycharm提供了体验更好的图形化**环境**管理器和**包**管理器。  
@@ -65,20 +67,21 @@ https://www.jetbrains.com/pycharm/
 安装过程  
 https://zhuanlan.zhihu.com/p/108439489
 
-## 配置环境变量
+## 其他需要做的
+### 配置环境变量
 这一步需要注意“用户变量”和“系统变量”两个名词，如果按教程里操作的运行不成功可以试试在“系统变量”的PATH里也添加一下  
 参考2.中的链接  
 或者这个简易版：  
 https://blog.csdn.net/Quest_sec/article/details/104466280
 
-## 配置清华源
+### 配置清华源
+使用pip或conda下载包时，因为服务器在国外，也许速度会很慢。需要设置从国内的镜像服务器来下载，例如清华大学的开源镜像站
+参见2.中链接文章的第六部分
 
-
-## 配置系统终端
+### 配置系统终端
 如果你选用前三种方式，还可以配置你的系统终端来快速进行一些命令操作。  
 Windows常用的系统终端有cmd和Powershell，都自带在系统中。  
 如果你想使用更美观的界面，可以在Microsoft Store里安装Windows Terminal，或者Windows Terminal Preview（前者的预览版）。  
 
 一招解决Conda安装卡在solving environment这一步！
 https://blog.csdn.net/qazplm12_3/article/details/108924561
-
