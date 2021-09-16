@@ -45,9 +45,9 @@ Visual Studio Code是功能非常强大的编辑器，界面美观，适用于�
 内置的编辑器和jupyter notebook插件可以取代2.中的编辑界面。  
 运行代码也可以在内嵌的终端（terminal）里输出结果。  
 
-先装Anaconda，再装VS Code(建议自己安装，而不是在Navigator里安装VS Code)
-https://code.visualstudio.com/
-注意选好版本
+先装Anaconda，再装VS Code(建议自己安装，而不是在Navigator里安装VS Code)  
+https://code.visualstudio.com/  
+注意选好版本  
 ![image](https://user-images.githubusercontent.com/10933927/133658830-8f4ff80d-93e8-4bde-bae4-e486bac4955d.png)
 
 建议四个都勾选  
