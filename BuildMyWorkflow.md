@@ -61,7 +61,7 @@ https://cloud.tencent.com/developer/article/1796162
 ## 4. （IDE）只安装Pycharm
 Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pycharm提供了体验更好的图形化**环境**管理器和**包**管理器。  
 运行和调试同样可以在内置的终端中运行，类似于3.  
-**经测试，目前在M1 Mac上，部分包的安装过程会出现问题（Python3.9.11），因此不建议在M1 Mac上使用Pycharm（需要额外配置一个本地环境并使用homebrew，较为麻烦）**  
+**经测试，目前在M1 Mac上，部分包的安装过程会出现问题（scipy，Python3.9.11），需要额外配置一个本地Python环境并使用homebrew，较为麻烦，因此不建议在M1 Mac上使用Pycharm**  
 安装免费的Community版即可  
 https://www.jetbrains.com/pycharm/
 安装过程  
