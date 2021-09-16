@@ -16,21 +16,24 @@ IDE：PyCharm、Wingide、LiClipse、Visual Studio（适用于大多数语言的
 编辑器：Visual Studio Code（VS Code）、Vim、Atom、Emacs、Sublime  
 也许后面几种学习成本较高，下面只会写到相对易用的VS Code  
 
-选择你的_英雄_
+选择你的~~英雄~~配置
 ## 1. 只装Python，使用IDLE编辑和调试文件，使用系统的命令行运行。
 优点：占用地方小，干净  
 缺点：IDLE编辑器及其简陋，默认字体不适合编程，语法高亮不丰富，只能通过pip进行包管理，管理虚拟环境很麻烦  
 不建议经验少的人使用  
 
-## 2. 安装Anaconda，可以使用IDLE以及jupyter notebook
+## 2. 只安装Anaconda，可以使用IDLE以及jupyter notebook
 Anaconda相当于Python本体多加了常用的软件包以及conda包管理器，也就是说需要手动安装的包变少了，并且你可以使用pip和conda两种方式来安装。  
 在Navigator中你还可以选择安装jupyter notebook，这样你又多了一个编辑器，它可以编写小的片段并运行，非常适合写本学期的作业。  
 
 ## 3. 在Anaconda的基础上，加装Visual Studio Code编辑器
 Visual Studio Code是功能非常强大的编辑器，界面美观，适用于多种语言的编写  
 内置的编辑器和jupyter notebook插件可以取代2.中的编辑界面。  
+运行代码也可以在内嵌的终端（terminal）里输出结果。
 
-## 4. Pycharm
+## 4. （IDE）只安装Pycharm
+Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pycharm提供了体验更好的图形化包管理器。
+运行和调试同样可以在内置的终端中运行
 
-## 5. Visual Studio
+<font color='red'> 经测试，目前在M1 Mac上，部分包的安装过程会出现问题（Python3.9.11），因此不建议在M1 Mac上使用Pycharm（需要额外配置一个本地环境并使用homebrew） </font>
 
