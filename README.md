@@ -60,13 +60,13 @@ https://www.yuketang.cn/
 **长江雨课堂**：减少雨课堂的服务器压力，南开专用雨课堂服务器命名为“长江雨课堂”，使用同一账号，但两个平台内容不互通，注意老师上课用哪个平台  
 https://changjiang.yuketang.cn/  
 
-**超星学习通**：思政课的MOOC一般会放在这  
+**超星学习通**：思政课的MOOC一般会放在这，上课位置签到需要用手机APP  
 http://i.chaoxing.com/  
 
 **智慧树**：有些课程也会由教务处同步到这里  
 https://www.zhihuishu.com/  
 
-**中国大学MOOC**：**我们的Python慕课就在这**  
+**中国大学MOOC**：有公开共享课，**我们的Python慕课就在这**  
 https://www.icourse163.org/  
 
 **爱课程**：和中国大学MOOC使用同一账号，一些资源共享课会放在这（比如微观经济学）  
