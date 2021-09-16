@@ -72,7 +72,7 @@ https://www.icourse163.org/
 **爱课程**：和中国大学MOOC使用同一账号，一些资源共享课会放在这（比如微观经济学）  
 https://www.icourses.cn/home/  
 
-**学堂云 SPOC  **
+**学堂云 SPOC**  
 https://nankai.yuketang.cn/pro/portal/home/  
 
 **学堂在线**：公开共享课，**和雨课堂使用同一账号**  
