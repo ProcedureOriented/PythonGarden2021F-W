@@ -31,14 +31,16 @@ IDE：PyCharm、Wingide、LiClipse、Visual Studio（VS，适用于大多数语�
 https://zhuanlan.zhihu.com/p/111168324?from_voters_page=true  
 
 ## 2. 只安装Anaconda，可以使用IDLE以及jupyter notebook编辑，在命令行里运行。
-Anaconda相当于Python本体多加了常用的软件包以及conda包管理器，也就是说，需要手动安装的包变少了，并且你可以使用pip和conda两种方式来安装需要的包。  
+优点：Anaconda相当于Python本体多加了常用的软件包以及conda包管理器，也就是说，需要手动安装的包变少了，并且你可以使用pip和conda两种方式来安装需要的包。  
+你还可以用conda和Navigator中的图形化管理器来管理虚拟环境。
 在Navigator中你还可以选择安装jupyter notebook，这样你又多了一个编辑器，它可以编写小的片段并运行，非常适合写本学期的作业。  
+缺点：但IDLE和jupyter notebook界面简陋仍有较差编写体验。
 
 如果你的用户名文件夹没有中文字符，可以选择安装到Just Me，也可以按文中所说安装到All users  
 记住**不要**勾选“Add Anaconda to the system PATH environment variable”，否则容易出现问题，文中有写到如何自己添加环境变量（environment variable）↓  
 https://zhuanlan.zhihu.com/p/75717350  
 
-## 3. 在Anaconda的基础上，加装Visual Studio Code编辑器
+## 3. 【推荐】在Anaconda的基础上，加装Visual Studio Code编辑器
 Visual Studio Code是功能非常强大的编辑器，界面美观，适用于多种语言的编写  
 内置的编辑器和jupyter notebook插件可以取代2.中的编辑界面。  
 运行代码也可以在内嵌的终端（terminal）里输出结果。  
@@ -74,7 +76,7 @@ https://zhuanlan.zhihu.com/p/108439489
 或者这个简易版：  
 https://blog.csdn.net/Quest_sec/article/details/104466280  
 
-### 配置清华源
+### 配置清华镜像源
 使用pip或conda下载包时，因为服务器在国外，也许速度会很慢。需要设置从国内的镜像服务器来下载，例如清华大学的开源镜像站  
 参见2.中链接文章的第六部分
 
