@@ -43,18 +43,32 @@ https://code.visualstudio.com/
 注意选好版本
 ![image](https://user-images.githubusercontent.com/10933927/133658830-8f4ff80d-93e8-4bde-bae4-e486bac4955d.png)
 
+建议四个都勾选  
+![image](https://user-images.githubusercontent.com/10933927/133659274-09025ed7-400a-401b-8537-8571c5926383.png)
+
+### VS Code 添加插件
+在界面左侧有四个小方格的按钮，点击它并在弹出的搜索栏上搜索Python，安装第一个即可  
+如果界面为英文，可以搜索Chinese，安装中文界面  
+另外还可以安装一个CodeSnap，分享代码时比较美观  
+
 ## 4. （IDE）只安装Pycharm
-Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pycharm提供了体验更好的图形化包管理器。  
+Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pycharm提供了体验更好的图形化**环境**管理器和**包**管理器。  
 运行和调试同样可以在内置的终端中运行，类似于3.  
-
-**经测试，目前在M1 Mac上，部分包的安装过程会出现问题（Python3.9.11），因此不建议在M1 Mac上使用Pycharm（需要额外配置一个本地环境并使用homebrew，较为麻烦）**
-
+**经测试，目前在M1 Mac上，部分包的安装过程会出现问题（Python3.9.11），因此不建议在M1 Mac上使用Pycharm（需要额外配置一个本地环境并使用homebrew，较为麻烦）**  
+安装免费的Community版即可  
+https://www.jetbrains.com/pycharm/
+安装过程  
+https://zhuanlan.zhihu.com/p/108439489
 
 ## 配置环境变量
 这一步需要注意“用户变量”和“系统变量”两个名词，如果按教程里操作的运行不成功可以试试在“系统变量”的PATH里也添加一下  
 参考2.中的链接  
 或者这个简易版：  
 https://blog.csdn.net/Quest_sec/article/details/104466280
+
+
+## 配置系统终端
+如果你选用前三种方式，还可以配置你的系统终端来快速进行一些命令操作
 
 一招解决Conda安装卡在solving environment这一步！
 https://blog.csdn.net/qazplm12_3/article/details/108924561
