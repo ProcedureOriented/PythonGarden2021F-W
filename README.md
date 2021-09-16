@@ -22,7 +22,8 @@ https://www.yuketang.cn/v2/web/index
 ![Inked5151FCB74F691F47F6B2FABF75B59702_LI](https://user-images.githubusercontent.com/10933927/133561771-cf6fb73c-b4cb-4f3e-8142-3b6742937a02.jpg)
   
 注：若在雨课堂公众号菜单栏内进入，为**手机网页版**（顶栏会显示“关闭”和“菜单”按钮）  
-<img width="400" src="https://user-images.githubusercontent.com/10933927/133564800-dd44e022-3403-4cae-98ff-0902d15f6f0e.jpg">
+<img width="400" src="https://user-images.githubusercontent.com/10933927/133564800-dd44e022-3403-4cae-98ff-0902d15f6f0e.jpg">  
+
 <img width="400" src="https://user-images.githubusercontent.com/10933927/133560989-3dbe31f4-3ced-4163-b067-391e947f8f79.jpg">
 
 ### 加入课程
