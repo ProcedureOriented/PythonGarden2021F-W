@@ -80,8 +80,22 @@ https://www.jetbrains.com/pycharm/
 https://zhuanlan.zhihu.com/p/108439489
 
 ## Mac同学需要注意的
-由于M1和Intel版本不同，因此会有些许不同  
-查看自己的系统信息：点击左上角苹果菜单  >“关于本机”
+由于**M1**和**Intel**版本不同，因此会有些许不同  
+**查看自己的系统信息**：点击左上角苹果菜单  >“关于本机”  
+  
+不论你安装了Python还是Anaconda，建议都加装一个VS Code  
+Python：
+**M1**的同学建议选择左侧的**3.9.7，universal2 installer**。**Intel**选择Intel installer。  
+Intel也可以选择其他版本，如3.7.12。
+https://www.python.org/downloads/macos/  
+
+Anaconda：  
+在网页最下方的中间选择**64-Bit Graphical Installer (440 MB)**  
+https://www.anaconda.com/products/individual-d  
+
+VS Code：  
+选择macOS Universal，下载后会自动解压，在访达里查看下载，拖到左边“应用程序”里即可。  
+https://code.visualstudio.com/  
 
 ## 其他需要做的
 ### 配置环境变量
@@ -96,8 +110,11 @@ https://blog.csdn.net/Quest_sec/article/details/104466280
 
 ### 配置系统终端
 如果你选用前三种方式，还可以配置你的系统终端来快速进行一些命令操作。  
-Windows常用的系统终端有cmd和Powershell，都自带在系统中。  
+Windows常用的系统终端有cmd和Powershell，都自带在系统中。当你完成了**配置环境变量**后，你就可以在系统的命令行里配置python环境。  
 如果你想使用更美观的界面，可以在Microsoft Store里安装Windows Terminal，或者Windows Terminal Preview（前者的预览版）。  
 
+### 一些不重要的链接存档
+Mac OS安装Anaconda后无法在终端使用conda命令怎么办？
+https://zhuanlan.zhihu.com/p/144550389
 一招解决Conda安装卡在solving environment这一步！
 https://blog.csdn.net/qazplm12_3/article/details/108924561
