@@ -97,6 +97,9 @@ VS Code：
 选择macOS Universal，下载后会自动解压，在访达里查看下载，拖到左边“应用程序”里即可。  
 https://code.visualstudio.com/  
 
+别人的安装过程，如果下载速度太慢，取消后再重试几次  
+https://blog.csdn.net/weixin_39845206/article/details/113452816?
+
 ## 其他需要做的
 ### 配置环境变量
 这一步需要注意“用户变量”和“系统变量”两个名词，如果按教程里操作的运行不成功可以试试在“系统变量”的PATH里也添加一下  
