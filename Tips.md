@@ -1,7 +1,7 @@
 # Tips:在配置工作环境之前
 在自己的电脑上建立工作环境之前，先让电脑和浏览器变得更好用一些！
 
-### NKU_WLAN免验证自动登录
+## NKU_WLAN免验证自动登录
 厌烦了每次连接校园网都要登陆？  
 访问NKU_WLAN的IP地址，http://202.113.18.106/  
 进入“自服务（Self）”，登录账号密码和登录校园网相同  
@@ -12,24 +12,27 @@
 来，试试看！  
 <img width="637" alt="Screenshot 2021-09-16 153039" src="https://user-images.githubusercontent.com/10933927/133570125-217b2ba8-31b2-45c7-82c7-35e31ca41472.png">
 
-### QuickLook【强烈推荐】
+## 南开大学正版软件平台
+http://ca.nankai.edu.cn/index.html
+
+## QuickLook【强烈推荐】
 用空格就可以快速预览图片、PDF、文档等文件,不用再等漫长的打开过程（从macOS学的）  
 （在电脑自带的Microsoft Store可以搜索到）  
 
-### WinDynamicDesktop
+## WinDynamicDesktop
 让你的Windows电脑有媲美macOS的日夜间自动壁纸，晚上再也不用因为桌面刺眼了  
 （在Microsoft Store可以搜索到）  
 
-### TranslucentTB
+## TranslucentTB
 让任务栏变透明或者模糊！桌面更开阔！  
 （在Microsoft Store可以搜索到）  
 
-### Tampermonkey【强烈推荐】
+## Tampermonkey【强烈推荐】
 也称“油猴脚本”，主要加载一些用户脚本（User Script）以改变网页的表现或增加功能。  
 （在Chrome/Chromium/Edge/Firefox中以拓展（Extension）形式安装）  
 <img width="281" alt="Screenshot 2021-09-16 153801" src="https://user-images.githubusercontent.com/10933927/133570615-8c81ae81-2928-404a-81ad-c81d58dc490e.png">
 
-#### 获取脚本的渠道
+### 获取脚本的渠道
 Greasy Fork  
 包括了安装Tampermonkey的链接和搜索脚本功能  
 https://greasyfork.org/zh-CN  
@@ -38,42 +41,42 @@ https://greasyfork.org/zh-CN
 *也有个人开发者会在互联网上发布自己的脚本*  
   
 这里列举我用到的一些脚本
-#### 网页夜间模式
+### 网页夜间模式
 https://github.com/syhyz1990/darkmode  
 在网页的右下角添加一个小按钮，使网页变成深灰色，比一般的调暗或变黄更舒适。  
 夜间赶作业查网页时的好帮手！！  
 
-#### 视频加速！广告加速！
+### 视频加速！广告加速！
 https://greasyfork.org/en/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8  
 各视频网站刷剧必备！！广告光速读完，视频调速随心所欲（思政课慕课就不要倍速啦）。  
 鼠标移到网页左侧绿色的小圆球来调整速度。  
 
-#### CNKI中国知网PDF全文下载
+### CNKI中国知网PDF全文下载
 https://greasyfork.org/en/scripts/18842-cnki-%E4%B8%AD%E5%9B%BD%E7%9F%A5%E7%BD%91-pdf-%E5%85%A8%E6%96%87%E4%B8%8B%E8%BD%BD-%E7%89%B9%E5%88%B6%E7%89%88  
 在查询结果页点击下载可以直接下载pdf而不是caj文件  
 
-#### 解除知网复制限制CNKI copy
+### 解除知网复制限制CNKI copy
 https://greasyfork.org/en/scripts/393843-%E8%A7%A3%E9%99%A4%E7%9F%A5%E7%BD%91%E5%A4%8D%E5%88%B6%E9%99%90%E5%88%B6cnki-copy  
 
-#### 文本选中复制
+### 文本选中复制
 https://greasyfork.org/en/scripts/405130-%E6%96%87%E6%9C%AC%E9%80%89%E4%B8%AD%E5%A4%8D%E5%88%B6  
 除了知网的复制限制，你还可以用这个脚本解除其他网站的限制，比如百度文库等  
 在CSDN复制别人的代码的时候不用自己再登录了  
 
-#### 网页限制解除
+### 网页限制解除
 https://greasyfork.org/en/scripts/28497-remove-web-limits-modified  
 叠BUFF！解除禁止复制、剪切、选择文本、右键菜单的限制，可以和上面两个一起用。  
 如果不生效可以在网页右上角的灰色选择框里打上勾  
 
-#### Bilibili增强
+### Bilibili增强
 https://github.com/the1812/Bilibili-Evolved  
  下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持  
 
-#### 药方
+### 药方
 https://greasyfork.org/zh-CN/scripts/3249-yet-another-weibo-filter  
 专治微博网页版各类强迫症  
 
-#### 黑魔法
+### 黑魔法
 **！！！考试答题功能慎用，注意关掉自动提交！！！**  
 
 **破解助手：解锁B站大会员番剧、B站视频解析下载；全网VIP视频免费破解去广告**  
