@@ -86,7 +86,7 @@ https://zhuanlan.zhihu.com/p/108439489
 不论你安装了**Python**还是**Anaconda**，建议都加装一个**VS Code**  
 **Python：**  
 **M1**的同学建议选择左侧的**3.9.7，universal2 installer**。**Intel**选择Intel installer。  
-Intel也可以选择其他版本，如3.7.12。
+Intel也可以选择其他版本，如3.7.12。  
 https://www.python.org/downloads/macos/  
 
 **Anaconda：**  
@@ -109,7 +109,7 @@ https://blog.csdn.net/Quest_sec/article/details/104466280
 
 ### 配置清华镜像源
 使用pip或conda下载包时，因为服务器在国外，也许速度会很慢。需要设置从国内的镜像服务器来下载，例如清华大学的开源镜像站  
-参见2.中链接文章的第六部分
+参见2.中链接文章的第六部分  
 
 ### 配置系统终端
 如果你选用前三种方式，还可以配置你的系统终端来快速进行一些命令操作。  
@@ -117,7 +117,7 @@ Windows常用的系统终端有cmd和Powershell，都自带在系统中。当你
 如果你想使用更美观的界面，可以在Microsoft Store里安装Windows Terminal，或者Windows Terminal Preview（前者的预览版）。  
 
 ### 一些不重要的链接存档
-Mac OS安装Anaconda后无法在终端使用conda命令怎么办？
-https://zhuanlan.zhihu.com/p/144550389
-一招解决Conda安装卡在solving environment这一步！
-https://blog.csdn.net/qazplm12_3/article/details/108924561
+Mac OS安装Anaconda后无法在终端使用conda命令怎么办？  
+https://zhuanlan.zhihu.com/p/144550389  
+一招解决Conda安装卡在solving environment这一步！  
+https://blog.csdn.net/qazplm12_3/article/details/108924561  
