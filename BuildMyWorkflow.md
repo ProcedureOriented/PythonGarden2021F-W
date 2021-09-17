@@ -32,7 +32,7 @@ https://zhuanlan.zhihu.com/p/111168324?from_voters_page=true
 
 ## 2. 只安装Anaconda，可以使用IDLE以及jupyter notebook编辑，在命令行里运行。
 优点：Anaconda相当于Python本体多加了常用的软件包以及conda包管理器，也就是说，需要手动安装的包变少了，并且你可以使用pip和conda两种方式来安装需要的包。  
-你还可以用conda和Navigator中的图形化管理器来管理虚拟环境。
+你还可以用**conda命令**和Navigator中的图形化管理器来管理虚拟环境。  
 在Navigator中你还可以选择安装jupyter notebook，这样你又多了一个编辑器，它可以编写小的片段并运行，**非常适合写本学期的作业**。  
 缺点：但IDLE和jupyter notebook界面简陋仍有较差编写体验。
 
