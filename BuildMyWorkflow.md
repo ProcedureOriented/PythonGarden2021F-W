@@ -75,7 +75,7 @@ Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pych
 <img width="1431" alt="0a41c44876fa535c3bd4ee4044619ec" src="https://user-images.githubusercontent.com/10933927/133711166-213b87ee-8fa5-4a93-b3da-cf99bf505c44.png">
 
 安装免费的Community版即可  
-https://www.jetbrains.com/pycharm/
+https://www.jetbrains.com/pycharm/  
 安装过程  
 https://zhuanlan.zhihu.com/p/108439489
 
