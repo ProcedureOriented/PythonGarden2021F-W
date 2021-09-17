@@ -36,14 +36,20 @@ https://zhuanlan.zhihu.com/p/111168324?from_voters_page=true
 在Navigator中你还可以选择安装jupyter notebook，这样你又多了一个编辑器，它可以编写小的片段并运行，非常适合写本学期的作业。  
 缺点：但IDLE和jupyter notebook界面简陋仍有较差编写体验。
 
+【IDLE和jupyter notebook】
+<img width="1377" alt="Screenshot 2021-09-17 092534" src="https://user-images.githubusercontent.com/10933927/133709260-afbd0223-e7b9-4b89-8a7c-e0dbfda083f8.png">
+
 如果你的用户名文件夹没有中文字符，可以选择安装到Just Me，也可以按文中所说安装到All users  
 记住**不要**勾选“Add Anaconda to the system PATH environment variable”，否则容易出现问题，文中有写到如何自己添加环境变量（environment variable）↓  
 https://zhuanlan.zhihu.com/p/75717350  
 
-## 3. 【推荐】在Anaconda的基础上，加装Visual Studio Code编辑器
+## 3. 在Anaconda的基础上，加装Visual Studio Code编辑器
 Visual Studio Code是功能非常强大的编辑器，界面美观，适用于多种语言的编写  
 内置的编辑器和jupyter notebook插件可以取代2.中的编辑界面。  
 运行代码也可以在内嵌的终端（terminal）里输出结果。  
+
+【VS Code里的编辑器、jupyter notebook，内置终端（下方）和Windows Terminal（右侧）】  
+<img width="1794" alt="Screenshot 2021-09-17 093848" src="https://user-images.githubusercontent.com/10933927/133710124-61478d54-5d52-44e2-aede-c9d9e906a231.png">
 
 先装Anaconda，再装VS Code(建议自己安装，而不是在Navigator里安装VS Code)  
 https://code.visualstudio.com/  
@@ -63,7 +69,10 @@ https://cloud.tencent.com/developer/article/1796162
 ## 4. （IDE）只安装Pycharm
 Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pycharm提供了体验更好的图形化**环境**管理器和**包**管理器。  
 运行和调试同样可以在内置的终端中运行，类似于3.  
-**经测试，目前在M1 Mac上，部分包的安装过程会出现问题（scipy，Python3.9.11），需要额外配置一个本地Python环境并使用homebrew，较为麻烦，因此不建议在M1 Mac上使用Pycharm**  
+**经测试，目前在M1 Mac上，部分包的安装过程会出现问题（scipy，Python3.9），需要额外配置一个本地Python环境并使用homebrew，较为麻烦，因此不建议在M1 Mac上使用Pycharm**  
+
+【Pycharm界面：编辑器和终端】  
+
 安装免费的Community版即可  
 https://www.jetbrains.com/pycharm/
 安装过程  
