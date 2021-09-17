@@ -83,17 +83,17 @@ https://zhuanlan.zhihu.com/p/108439489
 由于**M1**和**Intel**版本不同，因此会有些许不同  
 **查看自己的系统信息**：点击左上角苹果菜单  >“关于本机”  
   
-不论你安装了Python还是Anaconda，建议都加装一个VS Code  
-Python：
+不论你安装了**Python**还是**Anaconda**，建议都加装一个VS Code  
+**Python：**
 **M1**的同学建议选择左侧的**3.9.7，universal2 installer**。**Intel**选择Intel installer。  
 Intel也可以选择其他版本，如3.7.12。
 https://www.python.org/downloads/macos/  
 
-Anaconda：  
+**Anaconda： ** 
 在网页最下方的中间选择**64-Bit Graphical Installer (440 MB)**  
 https://www.anaconda.com/products/individual-d  
 
-VS Code：  
+**VS Code：  **
 选择macOS Universal，下载后会自动解压，在访达里查看下载，拖到左边“应用程序”里即可。  
 https://code.visualstudio.com/  
 
