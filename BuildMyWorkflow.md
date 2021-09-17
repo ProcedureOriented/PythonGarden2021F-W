@@ -94,7 +94,7 @@ https://www.python.org/downloads/macos/
 https://www.anaconda.com/products/individual-d  
 
 **VS Code：**  
-选择macOS Universal，下载后会自动解压，在访达里查看下载，拖到左边“应用程序”里即可。  
+选择macOS Universal （Stable：稳定版，Insiders：内测版），下载后会自动解压，在访达里查看下载，拖到左边“应用程序”里即可。  
 https://code.visualstudio.com/  
 
 别人的安装过程，如果下载速度太慢，取消后再重试几次  
