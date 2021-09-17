@@ -5,13 +5,12 @@ Additional contents for Basics of Python Programming 1123/1124
 GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/  
 其他参见：提高国内访问 github 速度的 9 种方法！https://zhuanlan.zhihu.com/p/314071453  
 
-0917. 【安装】建立Python工作环境  
-<a href="ProcedureOriented/PythonGarden2021FW/BuildMyWorkflow.md">BuildMyWorkflow.md</a>  
- /BuildMyWorkflow.md  
-0917. 【彩蛋】使用电脑和浏览器的小帮助  
-./Tips.md
-0916. 雨课堂使用说明  
-./HowToUseRainclassroom.md
+## 0917. 【安装】建立Python工作环境  
+[BuildMyWorkflow.md](/BuildMyWorkflow.md)  
 
-[BuildMyWorkflow.md](/tree/master/BuildMyWorkflow.md)  
+## 0917. 【彩蛋】使用电脑和浏览器的小帮助  
+[Tips.md](/Tips.md)  
+
+## 0916. 雨课堂使用说明  
+[HowToUseRainclassroom.md](/HowToUseRainclassroom.md)  
 
