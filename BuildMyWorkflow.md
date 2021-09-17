@@ -80,7 +80,7 @@ https://www.jetbrains.com/pycharm/
 https://zhuanlan.zhihu.com/p/108439489
 
 ## Mac同学需要注意的
-由于M1和Intel版本不同，因此会有些许不同
+由于M1和Intel版本不同，因此会有些许不同  
 查看自己的系统信息：点击左上角苹果菜单  >“关于本机”
 
 ## 其他需要做的
