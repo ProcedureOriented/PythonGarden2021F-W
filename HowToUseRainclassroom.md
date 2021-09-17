@@ -1,11 +1,4 @@
-# PythonGarden2021FW
-Additional contents for Basics of Python Programming 1123/1124  
-  
-这里是“Python编程基础”课程的GitHub附加库，我们会在这里陆续添加一些值得一看的内容，希望对学习这门课程的同学有帮助。  
-GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/  
-其他参见：提高国内访问 github 速度的 9 种方法！https://zhuanlan.zhihu.com/p/314071453  
-
-## 0916. 雨课堂使用说明
+# 0916. 雨课堂使用说明
 雨课堂有网页端，小程序，桌面安装版和移动端软件，前两种用的较多，因此这里只介绍前两种。  
   
 ### 网页端
