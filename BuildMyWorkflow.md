@@ -30,6 +30,8 @@ IDE：PyCharm、Wingide、LiClipse、Visual Studio（VS，适用于大多数语�
 看到安装编辑器之前就行↓  
 https://zhuanlan.zhihu.com/p/111168324?from_voters_page=true  
 
+Python若想单独使用jupyter notebook，可以在命令行里运行pip install jupyter  
+
 ## 2. 只安装Anaconda，可以使用IDLE以及jupyter notebook编辑，在命令行里运行。
 优点：Anaconda相当于Python本体多加了常用的软件包以及conda包管理器，也就是说，需要手动安装的包变少了，并且你可以使用pip和conda两种方式来安装需要的包。  
 你还可以用**conda命令**和Navigator中的图形化管理器来管理虚拟环境。  
@@ -43,7 +45,7 @@ https://zhuanlan.zhihu.com/p/111168324?from_voters_page=true
 记住**不要**勾选“Add Anaconda to the system PATH environment variable”，否则容易出现问题，文中有写到如何自己添加环境变量（environment variable）↓  
 https://zhuanlan.zhihu.com/p/75717350  
 
-## 3. 在Anaconda的基础上，加装Visual Studio Code编辑器
+## 3. 在Anaconda/Python的基础上，加装Visual Studio Code编辑器
 Visual Studio Code是功能非常强大的编辑器，界面美观，适用于多种语言的编写  
 内置的编辑器和jupyter notebook插件可以取代2.中的编辑界面。  
 运行代码也可以在内嵌的终端（terminal）里输出结果。  
