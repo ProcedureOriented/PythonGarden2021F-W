@@ -72,6 +72,7 @@ Pycharm提供了完整的开发环境，自带Python。相比于Ananconda，Pych
 **经测试，目前在M1 Mac上，部分包的安装过程会出现问题（scipy，Python3.9），需要额外配置一个本地Python环境并使用homebrew，较为麻烦，因此不建议在M1 Mac上使用Pycharm**  
 
 【Pycharm界面：编辑器和终端】  
+<img width="1431" alt="0a41c44876fa535c3bd4ee4044619ec" src="https://user-images.githubusercontent.com/10933927/133711166-213b87ee-8fa5-4a93-b3da-cf99bf505c44.png">
 
 安装免费的Community版即可  
 https://www.jetbrains.com/pycharm/
