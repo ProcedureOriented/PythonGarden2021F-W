@@ -58,5 +58,5 @@ https://blog.csdn.net/Alphasxd/article/details/102614760
 
 ## “不要重复发明轮子”
 
-有探索问题的精神
+有探索问题的精神  
 Github，菜鸟教程，CSDN，博客园，Stack overflow，甚至程序员的个人主页
