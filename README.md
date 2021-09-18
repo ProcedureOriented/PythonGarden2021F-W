@@ -8,6 +8,9 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 ## 每周作业公告
 [作业](/WeeklyHomework.md)
 
+## （更新中）编程的规范和建议
+[养成良好习惯](/BeProfessional.md)  
+
 ## 0917. 【安装】建立Python工作环境  
 安装Python？Anaconda？需要再加一个VS Code编辑器吗？或者用Pycharm IDE？  
 [看这里](/BuildMyWorkflow.md)  
