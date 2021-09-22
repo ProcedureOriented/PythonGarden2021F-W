@@ -8,7 +8,7 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 ## 每周作业公告
 [作业](/WeeklyHomework.md)
 
-## （更新中）编程的规范和建议
+## 0924. 编程的规范和建议
 [养成良好习惯](/BeProfessional.md)  
 
 ## 0917. 【安装】建立Python工作环境  
