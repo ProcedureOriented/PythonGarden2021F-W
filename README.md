@@ -6,7 +6,7 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 其他参见：提高国内访问 github 速度的 9 种方法！https://zhuanlan.zhihu.com/p/314071453  
 
 ## 每周作业公告
-[作业](/WeeklyHomework.md)
+[作业已更至第2周](/WeeklyHomework.md)
 
 ## 0924. 编程的规范和建议
 [养成良好习惯](/BeProfessional.md)  
