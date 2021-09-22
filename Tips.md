@@ -42,7 +42,7 @@ https://greasyfork.org/zh-CN
   
 这里列举我用到的一些脚本
 ### 网页夜间模式
-https://github.com/syhyz1990/darkmode  
+https://www.baiduyun.wiki/tool/install-darkmode.html  
 在网页的右下角添加一个小按钮，使网页变成深灰色，比一般的调暗或变黄更舒适。  
 夜间赶作业查网页时的好帮手！！  
 
