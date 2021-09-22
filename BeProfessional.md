@@ -56,7 +56,7 @@ https://blog.csdn.net/Alphasxd/article/details/102614743
 **（功利地说，你还要期末复习呢）**  
 
 《（转载）python编码规范(四)--注释，文档》  
-https://blog.csdn.net/Alphasxd/article/details/102614760
+https://blog.csdn.net/Alphasxd/article/details/102614760  
 
 ## “不要重复发明轮子”
 不要从头去实现一个已经很规范、很成熟的功能或模块。如果可以的话就站在巨人的肩膀上。  
@@ -65,3 +65,9 @@ https://blog.csdn.net/Alphasxd/article/details/102614760
 在搜索结果中，你通常可以在这些网站上找到答案：  
 Github，菜鸟教程，CSDN，博客园，知乎，Stack Overflow，甚至程序员的个人主页...  
 感谢他们的经验积累和分享精神！  
+
+## Talk is cheap. Show me the code.
+_——Linus Torvalds_  
+
+谁都可以提出天马行空的想法和方案，但是更重要的是实现它。  
+
