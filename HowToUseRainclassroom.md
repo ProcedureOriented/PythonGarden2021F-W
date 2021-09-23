@@ -59,13 +59,13 @@ http://i.chaoxing.com/
 **智慧树**：有些课程也会由教务处同步到这里  
 https://www.zhihuishu.com/  
 
-**中国大学MOOC**：有公开共享课，**我们的Python慕课就在这**  
+**中国大学MOOC**：有公开共享课，**我们的Python慕课（“线上练习题”部分）就在这**  
 https://www.icourse163.org/  
 
 **爱课程**：和中国大学MOOC使用同一账号，一些资源共享课会放在这（比如微观经济学）  
 https://www.icourses.cn/home/  
 
-**学堂云 SPOC**  
+**学堂云 SPOC**：**观看视频**和**随堂练习**在这，也可以用雨课堂访问。  
 **注意：** 它在教务处网站上的入口叫做“学堂云在线平台”，所以有时候也会被称作“学堂在线”，注意甄别和实际的“学堂在线”（都是公开课）  
 在主页上有**雨课堂**和**长江雨课堂**的入口，右侧的“学习空间”实际上是https://nankai.yuketang.cn/pro/courselist ，它和**雨课堂**的内容是相同的，只是界面显示略有差别。  
 https://nankai.yuketang.cn/pro/portal/home/  
