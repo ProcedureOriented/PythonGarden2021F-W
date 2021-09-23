@@ -66,6 +66,8 @@ https://www.icourse163.org/
 https://www.icourses.cn/home/  
 
 **学堂云 SPOC**  
+**注意：** 它在教务处网站上的入口叫做“学堂云在线平台”，所以有时候也会被称作“学堂在线”，注意甄别和实际的“学堂在线”（都是公开课）  
+在主页上有**雨课堂**和**长江雨课堂**的入口，右侧的“学习空间”实际上是https://nankai.yuketang.cn/pro/courselist ，它和**雨课堂**的内容是相同的，只是界面显示略有差别。  
 https://nankai.yuketang.cn/pro/portal/home/  
 
 **学堂在线**：公开共享课，**和雨课堂使用同一账号**  
