@@ -11,12 +11,14 @@
 [编程的规范和建议](/BeProfessional.md)  
 
 ### 关于课程考核的说明
-昨天和老师确认了一下PPT中说的具体细则。
+昨天和老师确认了一下PPT中说的具体细则。  
 **线上练习题：10分。** 在中国大学MOOC上做。  
 网址是 https://www.icourse163.org/learn/NKU-1205696807  
+
 **SPOC视频观看：5分。** 实际上是雨课堂/学堂云上发布的视频  
 网址为 https://www.yuketang.cn/ 或 https://nankai.yuketang.cn/  
 APP名称为“雨课堂”或“学堂云”  
+
 **出勤、随堂测试、课堂回答问题**，同上  
 
 ## 第02周 Sept. 17
