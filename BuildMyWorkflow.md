@@ -50,6 +50,8 @@ Visual Studio Code是功能非常强大的编辑器，界面美观，适用于�
 内置的编辑器和jupyter notebook插件可以取代2.中的编辑界面。  
 运行代码也可以在内嵌的终端（terminal）里输出结果。  
 
+在左侧工作区新建文件，加上后缀.py即可进入python文件式编写，加上.ipynb即可进入jupyter notebook模式。  
+
 【VS Code里的编辑器、jupyter notebook，内置终端（下方）和Windows Terminal（右侧）】  
 <img width="1794" alt="Screenshot 2021-09-17 093848" src="https://user-images.githubusercontent.com/10933927/133710124-61478d54-5d52-44e2-aede-c9d9e906a231.png">
 
@@ -62,7 +64,7 @@ https://code.visualstudio.com/
 ![image](https://user-images.githubusercontent.com/10933927/133659274-09025ed7-400a-401b-8537-8571c5926383.png)
 
 ### VS Code 添加插件
-在界面左侧有四个小方格的按钮，点击它并在弹出的搜索栏上搜索Python，安装第一个即可  
+在界面左侧有四个小方格的按钮，点击它并在弹出的搜索栏上搜索Python，安装第一个即可（jupyter等插件会连带安装，如果没有可手动搜索添加）  
 如果界面为英文，可以搜索Chinese，安装中文界面  
 另外还可以安装一个CodeSnap，分享代码时比较美观  
 在网上搜索VS Code插件推荐可以发掘VS Code的更多功能  
