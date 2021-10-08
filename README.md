@@ -10,7 +10,7 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 [作业已更至第5周](/WeeklyHomework.md)
 
 ## 1008. 上课常见问题
-[课本勘误、\\r问题、列表和元组的修改](/1008FAQ)
+[课本勘误、\\r问题、列表和元组的修改](/1008FAQ.md)
 
 ## 0924. 编程的规范和建议
 [养成良好习惯](/BeProfessional.md)  
