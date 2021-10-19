@@ -7,7 +7,11 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 其他参见：提高国内访问 github 速度的 9 种方法！https://zhuanlan.zhihu.com/p/314071453  
 
 ## 每周作业公告
-[作业已更至第5周](/WeeklyHomework.md)
+[作业已更至第6周](/WeeklyHomework.md)
+
+## 1015. 课堂问题
+关于二进制的原码，补码和反码，在以往学期中会在计算机基础课程中讲授，先作为拓展内容，有基本了解即可  
+[参考资料:原码，补码和反码-博客园](https://www.cnblogs.com/wqbin/p/11142873.html)
 
 ## 1008. 上课常见问题
 [课本勘误、\\r问题、列表和元组的修改](/1008FAQ.md)
