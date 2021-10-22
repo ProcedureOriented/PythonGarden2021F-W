@@ -9,7 +9,7 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 ## 每周作业公告
 [作业已更至第6周](/WeeklyHomework.md)
 
-## 待发布 编程作业
+## 1022. 编程作业
 [Jupyternotebook文件](/Homework1.ipynb)
 
 ## 1015. 课堂问题
