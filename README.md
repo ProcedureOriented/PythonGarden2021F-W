@@ -21,7 +21,7 @@ www.vscode.dev
 在学习接下来两章的过程中你会对Python的使用有更进一步的了解，同时对于完成大作业也增强了更多的可行性。  
 
 ## 1022. 编程作业1
-[Jupyternotebook文件](/Homework1.ipynb)
+[Jupyternotebook文件](/Homework1.ipynb)  
 截止时间：10月31日20:00  
 
 ## 1015. 课堂问题
