@@ -6,6 +6,9 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 （将GitHub链接的开头https://github.com/ 换为https://hub.fastgit.org/ 即可）  
 其他参见：提高国内访问 github 速度的 9 种方法！https://zhuanlan.zhihu.com/p/314071453  
 
+## 强力推荐：网页版VS code + Github
+www.vscode.dev  
+
 ## 每周作业公告
 [作业已更至第7周](/WeeklyHomework.md)
 
