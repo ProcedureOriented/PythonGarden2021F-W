@@ -10,7 +10,9 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 www.vscode.dev  
 
 ## 每周作业公告
-[作业已更至第7周](/WeeklyHomework.md)
+[作业已更至第8周](/WeeklyHomework.md)
+
+## 1029. 
 
 ## 1023. 大作业分组与选题
 请各位同学确定好小组后在群内金山文档中完成登记，并在接下来一周的时间内确定好选题。  
