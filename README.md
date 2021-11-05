@@ -12,6 +12,9 @@ www.vscode.dev
 ## 每周作业公告
 [作业已更至第8周](/WeeklyHomework.md)
 
+## 1105. 编程作业1-答案
+[Jupyternotebook文件](/Homework1Answer.ipynb)  
+
 ## 1029. 开题报告
 必须包括的内容有：  
     1. 要解决的问题  
