@@ -10,7 +10,7 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 www.vscode.dev  
 
 ## 每周作业公告
-[作业已更至第8周](/WeeklyHomework.md)
+[作业已更至第10周](/WeeklyHomework.md)  
 
 ## 1105. 编程作业1-答案
 [Jupyternotebook文件](/Homework1Answer.ipynb)  
