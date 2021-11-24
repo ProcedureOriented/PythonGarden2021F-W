@@ -10,7 +10,13 @@ GitHub有时访问较慢，可以使用镜像站：https://hub.fastgit.org/
 www.vscode.dev  
 
 ## 每周作业公告
-[作业已更至第10周](/WeeklyHomework.md)  
+[作业已更至第11周](/WeeklyHomework.md)  
+
+## 1123. 隐私信息
+根据相关法规，中国大学mooc平台对学生信息脱敏处理，期末登记成绩需要学生自行提交截图，具体提交时间和方式请等待通知。  
+
+## 1122. 编程作业2
+已发布在雨课堂  
 
 ## 1105. 编程作业1-答案
 [Jupyternotebook文件](/Homework1Answer.ipynb)  
